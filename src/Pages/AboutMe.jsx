@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react"
 import ButtonCV from "../Components/ButtonCV"
 import "aos/dist/aos.css"
-
+import Card from '../Components/uiverse/Card'
 const AboutMe = () => {
 
 
@@ -18,13 +18,7 @@ const AboutMe = () => {
 					{/* Kolom Kiri */}
 					<div className="flex justify-center items-center md:pr-10 pr-0 md:w-auto ">
 						<div data-aos="fade-up" data-aos-duration="1000">
-							<img
-								src="/me.jpg"
-								alt="Photo Siluet"
-								className="
-                            w-[30rem] h-auto rounded-xl transition-all duration-300 hover:scale-110"
-								id="ImgAbout"
-							/>
+<Card/>
 						</div>
 					</div>
 
