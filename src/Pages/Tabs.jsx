@@ -78,6 +78,12 @@ export default function FullWidthTabs() {
       Live:"https://currency-convertr.netlify.app/"
     },
     {
+      Img:"./projects/qr.png",
+      Title:"QR-GENERATOR",
+      Link:"https://github.com/nittish03/UTILS",
+      Live:"https://utils03.vercel.app/"
+    },
+    {
       Img:"./projects/blog.png",
       Title:"BLOG-APP",
       Link:"https://github.com/nittish03/BLOG-APP",
@@ -155,12 +161,7 @@ export default function FullWidthTabs() {
       Link:"https://github.com/nittish03/OLD-PORTFOLIO",
       Live:"https://nittish-portfolio.netlify.app/"
     },
-    {
-      Img:"./projects/qr.png",
-      Title:"QR-GENERATOR",
-      Link:"https://github.com/nittish03/UTILS",
-      Live:"https://utils03.netlify.app/"
-    },
+
     {
       Img:"./projects/battery.png",
       Title:"BATTERY",
