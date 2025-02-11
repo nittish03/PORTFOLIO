@@ -79,7 +79,7 @@ export default function FullWidthTabs() {
     },
     {
       Img:"./projects/qr.png",
-      Title:"QR-GENERATOR",
+      Title:"BEST-UTILS",
       Link:"https://github.com/nittish03/UTILS",
       Live:"https://utils03.vercel.app/"
     },
