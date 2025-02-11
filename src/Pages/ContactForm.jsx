@@ -39,7 +39,7 @@ const ContactForm = () => {
 								data-aos-duration="1000">
 								<div className="mb-6" data-aos="fade-up" data-aos-duration="600">
 									<label htmlFor="name" className="block text-[#ced4d7] font-semibold mb-2">
-										Name
+										Name / Title
 									</label>
 									<input
 										required
@@ -51,20 +51,7 @@ const ContactForm = () => {
 										className="w-full px-3 py-2 border h-14 rounded-lg focus:outline-none focus:border-[#ced4d7] bg-transparent text-[#a6adba]"
 									/>
 								</div>
-								<div className="mb-6" data-aos="fade-up" data-aos-duration="800">
-									<label htmlFor="from" className="block text-[#ced4d7] font-semibold mb-2">
-										From
-									</label>
-									<input
-										required
-										type="text"
-										name="from"
-										id="from"
-										placeholder="From"
-										autoComplete="off"
-										className="w-full px-3 py-2 border h-14 rounded-lg focus:outline-none focus:border-[#ced4d7] bg-transparent text-[#a6adba]"
-									/>
-								</div>
+
 								<div className="mb-5" data-aos="fade-up" data-aos-duration="1000">
 									<label htmlFor="message" className="block text-[#ced4d7] font-semibold mb-2">
 										Message
