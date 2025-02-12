@@ -63,7 +63,7 @@ export default function FullWidthTabs() {
       Img:"./projects/commerce.png",
       Title:"E-COMMERCE",
       Link:"https://github.com/nittish03/NEXT-E-COMMERCE",
-      Live:"https://ecommerce-three-alpha-31.vercel.app/"
+      Live:"https://ecommerce03.vercel.app/"
     },
     {
       Img:"./projects/gemini.png",
@@ -173,6 +173,12 @@ export default function FullWidthTabs() {
       Title:"AMAZON-CLONE",
       Link:"https://github.com/nittish03/AMAZON_CLONE",
       Live:"https://amzncopy.netlify.app/"
+    },
+    {
+      Img:"./projects/oldcommerce.png",
+      Title:"OLD-E-COMMERCE",
+      Link:"https://github.com/nittish03/OLD_E_COMMERCE",
+      Live:"https://ne-comm.netlify.app/"
     },
     {
       Img:"./projects/chat.png",
