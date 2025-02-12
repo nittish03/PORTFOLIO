@@ -4,6 +4,8 @@ import styled from 'styled-components';
 const Card = () => {
   return (
     <StyledWrapper>
+      <div className='margin-5'>
+
       <div className="myCard">
         <div className="innerCard">
           <div className="frontSide">
@@ -15,6 +17,7 @@ const Card = () => {
           </div>
         </div>
       </div>
+      </div>
     </StyledWrapper>
   );
 }
@@ -22,7 +25,7 @@ const Card = () => {
 const StyledWrapper = styled.div`
   .myCard {
     background-color: transparent;
-    width: 250px;
+    width: 200px;
     height: 280px;
     perspective: 1000px;
   }
