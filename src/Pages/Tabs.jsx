@@ -91,9 +91,9 @@ export default function FullWidthTabs() {
     },
     {
       Img:"./projects/invoice.png",
-      Title:"TAX-INVOICE-VALIDATOR",
-      Link:"https://github.com/nittish03/TAX-INVOICE-VALIDATOR",
-      Live:"https://pdf-tester.netlify.app/"
+      Title:"DOCUMENT-VALIDATOR",
+      Link:"https://github.com/nittish03/FILE-VALIDATOR",
+      Live:"https://document-validator03.vercel.app/"
     },
     {
       Img:"./projects/news.png",
