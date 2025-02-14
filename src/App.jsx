@@ -4,6 +4,7 @@ import AboutMe from "./Pages/AboutMe"
 import DrawerAppBar from "./Components/Navbar"
 import FullWidthTabs from "./Pages/Tabs"
 import ContactForm from "./Pages/ContactForm"
+import Skills from './Components/uiverse/Skills'
 
 function App() {
 
@@ -12,6 +13,7 @@ function App() {
       <DrawerAppBar/>
         <Blob/>
         <Home/>
+        <Skills/>
         <AboutMe/>
         <FullWidthTabs/>
         <ContactForm/>
