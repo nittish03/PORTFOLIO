@@ -28,10 +28,11 @@ const AboutMe = () => {
 							className="text-[#a6adba] w-full text-justify text-lg mb-5 mt-5 md:mt-0"
 							data-aos="fade-up"
 							data-aos-duration="600">
-I am a passionate and driven 2nd-year student at Bhagwan Parshuram Institute of Technology, currently pursuing a B.Tech in Information Technology. With a strong foundation in web development, I am proficient in both frontend and backend technologies.I have my hands on various frameworks and tools, including ReactJS, NodeJS, Nextjs, Express-js, Tailwind-CSS and Bootstrap, as well as databases like MongoDB and SQL.
+I am a passionate Full Stack Web Developer and a 2nd-year B.Tech IT student at Bhagwan Parshuram Institute of Technology. I specialize in building scalable and efficient web applications with expertise in Next.js, React.js, Node.js, Express.js, MongoDB, PostgreSQL, Tailwind CSS, and Bootstrap.
 
-As a full stack web developer, I have successfully completed numerous projects that demonstrate my skills and dedication to creating seamless, user-friendly applications. Some of my notable projects include a news app, an e-commerce website, and a Netflix clone.
+My skills include frontend and backend development, API design, authentication, database management, and UI/UX optimization. I have developed full-stack applications, such as a study platform for university students and a feature-rich e-commerce website, demonstrating my ability to create high-performance digital solutions.
 
+With hands-on experience from multiple internships and projects, I am committed to continuous learning and innovation in web development and software engineering. 🚀
 
 						</p>
 

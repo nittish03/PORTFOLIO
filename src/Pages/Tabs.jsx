@@ -189,6 +189,16 @@ export default function FullWidthTabs() {
   ]
   const certificates = [
     {
+      Img:"./certificates/INTERNSHIP 4 ( GAO TEK )/WEB DEVELOPMENT.png"
+  },
+    {
+      Img:"./certificates/INTERNSHIP 4 ( GAO TEK )/DIGITAL MARKETING.png"
+  },
+    {
+      Img:"./certificates/INTERNSHIP 4 ( GAO TEK )/ASSISTANT TEAM LEADER.png"
+  },
+
+    {
       Img:"./certificates/INTERNSHIP 1 ( CANTILEVER )/NITTISH OFFER LETTER.png"
   },
     {
