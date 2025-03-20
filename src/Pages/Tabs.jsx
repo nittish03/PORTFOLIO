@@ -189,6 +189,31 @@ export default function FullWidthTabs() {
   ]
   const certificates = [
     {
+      Img:"./certificates/HACKATHON/SHARDA1.JPG"
+  },
+    {
+      Img:"./certificates/HACKATHON/NS HACKS PARTICIPATION CERTIFICATE.jpg"
+  },
+    {
+      Img:"./certificates/HACKATHON/IGDTUW PARTICIPATION CERTIFICATE.png"
+  },
+
+
+
+
+    {
+      Img:"./certificates/INTERNSHIP 5 ( STUDY BUDDY )/Nittish Certificate.png"
+  },
+    {
+      Img:"./certificates/INTERNSHIP 4 ( GAO TEK )/GAO TEK OFFER LETTER.png"
+  },
+    {
+      Img:"./certificates/INTERNSHIP 5 ( STUDY BUDDY )/OFFER LETTER.png"
+  },
+
+
+
+    {
       Img:"./certificates/INTERNSHIP 4 ( GAO TEK )/WEB DEVELOPMENT.png"
   },
     {
@@ -234,7 +259,7 @@ export default function FullWidthTabs() {
     Img:"./certificates/HACKATHON/INTERNAL HACKATHON CERTIFICATE.jpg"
 },
   {
-    Img:"./certificates/HACKATHON/PLANTATION DRIVE.png"
+    Img:"./certificates/HACKATHON/SHARDA2.JPG"
 },
 
 

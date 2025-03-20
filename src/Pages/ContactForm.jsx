@@ -32,46 +32,50 @@ const ContactForm = () => {
 							</div>
 
 							<form
-								action="https://formsubmit.co/nittishbaboria123@gmail.com"
-								method="POST"
-								className=" md:p-1 p-0"
-								data-aos="fade-up"
-								data-aos-duration="1000">
-								<div className="mb-6" data-aos="fade-up" data-aos-duration="600">
-									<label htmlFor="name" className="block text-[#ced4d7] font-semibold mb-2">
-										Name / Title
-									</label>
-									<input
-										required
-										type="text"
-										name="name"
-										id="name"
-										autoComplete="off"
-										placeholder="Your Name"
-										className="w-full px-3 py-2 border h-14 rounded-lg focus:outline-none focus:border-[#ced4d7] bg-transparent text-[#a6adba]"
-									/>
-								</div>
+  action="https://getform.io/f/awnqrldb"
+  method="POST"
+  className="md:p-1 p-0"
+  data-aos="fade-up"
+  data-aos-duration="1000">
+  
+  <div className="mb-6" data-aos="fade-up" data-aos-duration="600">
+    <label htmlFor="name" className="block text-[#ced4d7] font-semibold mb-2">
+      Name / Title
+    </label>
+    <input
+      required
+      type="text"
+      name="name"
+      id="name"
+      autoComplete="off"
+      placeholder="Your Name"
+      className="w-full px-3 py-2 border h-14 rounded-lg focus:outline-none focus:border-[#ced4d7] bg-transparent text-[#a6adba]"
+    />
+  </div>
 
-								<div className="mb-5" data-aos="fade-up" data-aos-duration="1000">
-									<label htmlFor="message" className="block text-[#ced4d7] font-semibold mb-2">
-										Message
-									</label>
-									<textarea
-										required
-										type="text"
-										name="message"
-										id="message"
-										placeholder="Message"
-										className="w-full px-3 py-2 md:h-48 h-40 border rounded-lg focus:outline-none focus:border-[#ced4d7] bg-transparent text-[#a6adba]"></textarea>
-								</div>
-								<input type="hidden" name="_captcha" value="false" />
-								<input type="hidden" name="_template" value="table" />
-								<button
-									type="submit"
-									className="text-center bg-[#ced4d7] text-[#212121] mb-20 font-semibold py-2 px-4 rounded-lg hover:bg-[#1f2937] hover:text-[#ced4d7] transition-all duration-200 ease-out">
-									Send
-								</button>
-							</form>
+  <div className="mb-5" data-aos="fade-up" data-aos-duration="1000">
+    <label htmlFor="message" className="block text-[#ced4d7] font-semibold mb-2">
+      Message
+    </label>
+    <textarea
+      required
+      name="message"
+      id="message"
+      placeholder="Message"
+      className="w-full px-3 py-2 md:h-48 h-40 border rounded-lg focus:outline-none focus:border-[#ced4d7] bg-transparent text-[#a6adba]">
+    </textarea>
+  </div>
+
+  <input type="hidden" name="_captcha" value="false" />
+  <input type="hidden" name="_template" value="table" />
+
+  <button
+    type="submit"
+    className="text-center bg-[#ced4d7] text-[#212121] mb-20 font-semibold py-2 px-4 rounded-lg hover:bg-[#1f2937] hover:text-[#ced4d7] transition-all duration-200 ease-out">
+    Send
+  </button>
+</form>
+
 						</div>
 					</div>
 				</div>
